@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arda Erol</h1>
+<h1 align="center">Hi There👋, I'm Arda Erol</h1>
 <h3 align="center">An Artifical Intelligence Engineer from Turkey, Ankara</h3>
 
 - 📫 How to reach me **ardaerol.ai@gmail.com**
