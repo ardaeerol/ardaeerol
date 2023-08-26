@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Arda Erol</h1>
 <h3 align="center">An Artifical Intelligence Engineer from Turkey, Ankara</h3>
 
-- 📫 How to reach me **ardaerol.ai@gmail.com**
+<p align="center">- 📫 How to reach me **ardaerol.ai@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
