@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Arda Erol</h1>
-<h3 align="center">An Artifical Intelligence Engineer from Turkey, Ankara</h3>
+<h3 align="center">Artifical Intelligence Engineer</h3>
 
 <p align="center">📫 How to reach me <a href="mailto:ardaerol.ai@gmail.com">ardaerol.ai@gmail.com</a></p>
 
