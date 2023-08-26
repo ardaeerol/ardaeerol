@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <h1 align="center">Hi There <span class="wave">👋</span>, I'm Arda Erol</h1>
 <h3 align="center">Artifical Intelligence Engineer</h3>
 
