@@ -1,28 +1,3 @@
-<!-- Waving Hand Emoji -->
-<p align="center">
-    <span class="hand-emoji">👋</span>
-</p>
-
-<!-- Your Existing Content Below -->
-# Hi There👋, I'm Arda Erol
-
-### An Artificial Intelligence Engineer from Turkey, Ankara
-
-📫 How to reach me [ardaerol.ai@gmail.com](mailto:ardaerol.ai@gmail.com)
-
-### Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/arda-erol-a0bab4247/)
-
-### Languages and Tools:
-
-<!-- Your list of languages and tools here -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=ardaeerol&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
-
 <h1 align="center">Hi There👋, I'm Arda Erol</h1>
 <h3 align="center">An Artifical Intelligence Engineer from Turkey, Ankara</h3>
 
