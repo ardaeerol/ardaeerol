@@ -1,7 +1,7 @@
 <h1 align="center">Hi There <span class="wave">👋</span>, I'm Arda Erol</h1>
 <h3 align="center">Artifical Intelligence Engineer</h3>
 
-<p align="center">📫 How to reach me <a href="mailto:ardaerol.ai@gmail.com">ardaerol.ai@gmail.com</a></p>
+<p align="center">📫 How to reach me: <a href="mailto:ardaerol.ai@gmail.com">ardaerol.ai@gmail.com</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
