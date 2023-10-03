@@ -1,5 +1,5 @@
 ## Hi there, [Arda](https://github.com/ardaeerol) here 👋
-[![Github Badge](https://img.shields.io/badge/-@Janspiry-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Janspiry)
+[![Github Badge](https://img.shields.io/badge/-@ardaeerol-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ardaeerol)
 [![Mail Badge](https://img.shields.io/badge/-ardaerol.ai@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ardaerol.ai@gmail.com "Connect via Email")
 [![Website Badge](https://img.shields.io/badge/-ardaeerol.github.io-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://ardaeerol.github.io)
 
@@ -13,7 +13,7 @@ I’m currently working on Computer Vision, including:
 - Diffusion Models 
 
 <a href="https://github.com/ardaeerol?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Janspiry.Janspiry)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardaeerol.ardaeerol)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Janspiry/Janspiry?label=profile%20updated&style=flat&color=cfa81c">
 
 #
