@@ -21,7 +21,8 @@
 
 <p align='center'>
   <a href="https://github.com/Janspiry/">
-    <img alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" height="170" />
+    <img alt="GIF" src="https://github.com/ardaeerol/ardaeerol/blob/main/Dino_non-birthday_version.gif?raw=true" height="170" />
+    <!-- img alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" height="170" /-->
   </a>
 </p>
 
