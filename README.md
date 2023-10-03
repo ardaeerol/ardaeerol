@@ -13,6 +13,7 @@ I’m currently working on Computer Vision, including:
 - Diffusion Models 
 
 <a href="https://github.com/ardaeerol?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ardaeerol&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeerol" /> </p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardaeerol.ardaeerol)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Janspiry/Janspiry?label=profile%20updated&style=flat&color=cfa81c">
 
