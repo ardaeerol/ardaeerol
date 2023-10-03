@@ -1,7 +1,7 @@
 ## Hi there, [Arda](https://github.com/ardaeerol) here 👋
 [![Github Badge](https://img.shields.io/badge/-@Janspiry-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Janspiry)
-[![Mail Badge](https://img.shields.io/badge/-lw_jiang@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lw_jiang@foxmail.com "Connect via Email")
-[![Website Badge](https://img.shields.io/badge/-janspiry.github.io-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://janspiry.github.io)
+[![Mail Badge](https://img.shields.io/badge/-ardaerol.ai@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ardaerol.ai@gmail.com "Connect via Email")
+[![Website Badge](https://img.shields.io/badge/-ardaeerol.github.io-5a5a5a?style=flat&logo=vercel&logoColor=white)](https://ardaeerol.github.io)
 
 <a href="https://github.com/Janspiry/"><img alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
