@@ -1,7 +1,7 @@
 ## Hi there, [Arda](https://github.com/ardaeerol) here 👋
 [![Github Badge](https://img.shields.io/badge/-@ardaeerol-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/ardaeerol)
 [![Mail Badge](https://img.shields.io/badge/-ardaerol.ai@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ardaerol.ai@gmail.com "Connect via Email")
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-erol/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardaerol/)
 
 
 <a href="https://github.com/ardaeerol/"><img alt="GIF" src="https://github.com/ardaeerol/ardaeerol/blob/main/code.gif?raw=true" align="right" height="170" /></a>
