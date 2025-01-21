@@ -6,7 +6,8 @@
 
 <a href="https://github.com/ardaeerol/"><img alt="GIF" src="https://github.com/ardaeerol/ardaeerol/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-I am an Artificial Intelligence Engineer graduated from TOBB University of Economics and Technology located in Türkiye, Ankara.
+I am an Artificial Intelligence Engineer graduated from TOBB University of Economics and Technology 
+located in Türkiye, Ankara.
 
 I’m currently working on several projects, including: 
 - Recommendation Systems 
