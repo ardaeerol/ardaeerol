@@ -10,10 +10,10 @@ I am an Artificial Intelligence Engineer graduated from TOBB University of Econo
 located in Türkiye, Ankara.
 
 I’m currently working on several projects, including: 
-- Recommendation Systems 
-- Natural Language Processing
+- Generative AI (LLMs and Stable Diffusion)
+- Remote Sensing 
 - Object Detection and Tracking
-- Image to Image (Img2Img) Translation using Generative and Diffusion Models
+- Natural Language Processing
 
 <a href="https://github.com/ardaeerol?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardaeerol.ardaeerol)
