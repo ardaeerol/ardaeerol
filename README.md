@@ -10,12 +10,13 @@ I am an Artificial Intelligence Engineer graduated from TOBB University of Econo
 located in Türkiye, Ankara.
 
 I’m currently working on several projects, including: 
-- Generative AI (LLMs and Stable Diffusion)
+- Generative AI (LLM, Diffusion and GAN)
 - Remote Sensing 
 - Object Detection and Tracking
-- Natural Language Processing
+- Federated Learning
 
 <a href="https://github.com/ardaeerol?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardaeerol.ardaeerol)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ardaeerol/ardaeerol?label=profile%20updated&style=flat&color=cfa81c">
+
 
