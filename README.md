@@ -6,7 +6,9 @@
 
 <a href="https://github.com/ardaeerol/"><img alt="GIF" src="https://github.com/ardaeerol/ardaeerol/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-I am an Artificial Intelligence Engineering graduate from TOBB University of Economics and Technology, currently pursuing an M.Sc. at Technische Universität Berlin, Germany.
+I am an Artificial Intelligence Engineering graduate from TOBB University of Economics and Technology.
+
+Currently pursuing an M.Sc. at Technische Universität Berlin, Germany.
 
 With professional experience in satellite image processing and computer vision, my interests and ongoing projects focus on:
 
